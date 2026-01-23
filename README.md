@@ -1,36 +1,34 @@
-# BridgeLabz Java Core Programming
+# BridgeLabz Training Log
 
-• 08-Dec-2025 (Monday): Completed all practices till Day 3. Faced issues in execution of Git commands.
+• 08-Dec-2025 (Monday): Set up and verified Java development environment by installing and configuring required IDEs and Git.
 
-• 09-Dec-2025 (Tuesday): Completed all practices till Day 4. No issues faced.
+• 09-Dec-2025 (Tuesday): Learned Java fundamentals including JDK, JVM, JRE, execution flow, data types, and basic syntax.
 
-• 10-Dec-2025 (Wednesday): Maintained GitHub project structure and completed Week 1 review. No issues faced.
+• 10-Dec-2025 (Wednesday): Practiced basic Java programs and used Git commands to push code to GitHub repositories.
 
-• 11-Dec-2025 (Thursday): Modified GitHub structure and practiced Strings Level 2 problems. No issues faced.
+• 11-Dec-2025 (Thursday): Practiced String basics, array fundamentals, and input/output–based Java programs.
 
-• 12-Dec-2025 (Friday): Completed Day 5 practice along with extra questions. No issues faced.
+• 12-Dec-2025 (Friday): Focused on one-dimensional arrays, traversal techniques, and array-based problem solving.
 
-• 13-Dec-2025 (Saturday): Practiced Java class and objects problems. No issues faced.
+• 13-Dec-2025 (Saturday): Practiced Java methods including parameters, return types, and method-based programs.
 
 (14-Dec-2025 Sunday omitted)
 
-• 15-Dec-2025 (Monday): Practiced constructor-related Java problems. No issues faced.
+• 15-Dec-2025 (Monday): Solved Programming Elements Level 1 and Level 2 problems using user input and logic.
 
-• 16-Dec-2025 (Tuesday): Revised previously completed Java topics and continued practice. No issues faced.
+• 16-Dec-2025 (Tuesday): Practiced control flow concepts including conditionals, loops, and switch-case with multiple levels.
 
-• 17-Dec-2025 (Wednesday): Continued Java practice focusing on strengthening core concepts. No issues faced.
+• 17-Dec-2025 (Wednesday): Worked extensively on one-dimensional and two-dimensional array problems.
 
-• 18-Dec-2025 (Thursday): Practiced additional Java problems and revised Git concepts. No issues faced.
+• 18-Dec-2025 (Thursday): Practiced method-based problems focusing on logic building and code reusability.
 
-• 19-Dec-2025 (Friday): Continued Java problem-solving and code refinement. No issues faced.
-
-• 20-Dec-2025 (Saturday): Practiced mixed Java questions covering previous topics. No issues faced.
+• 20-Dec-2025 (Saturday): Verified Java tools and IDE setup and revised core Java concepts.
 
 (21-Dec-2025 Sunday omitted)
 
-• 22-Dec-2025 (Monday): Revised Java fundamentals and practiced remaining problem sets. No issues faced.
+• 22-Dec-2025 (Monday): Studied Programming Elements with emphasis on basic logic and input-output handling.
 
-• 23-Dec-2025 (Tuesday): Final revision of completed Java topics and GitHub project organization. No issues faced.
+• 23-Dec-2025 (Tuesday): Solved Programming Elements practice problems using Java.
 
 • 08-Jan-2026 (Thursday): Studied Java constructors in detail, learned the difference between instance and class variables, and practiced various access modifiers with examples.
 
@@ -49,3 +47,17 @@
 • 15-Jan-2026 (Thursday): (PONGAL)
 
 • 16-Jan-2026 (Friday): Updated my GitHub repository by organizing project structure and pushing recent practice work.
+
+• 17-Jan-2026 (Saturday): Updated my GitHub repository by organizing project structure and pushing recent practice work.
+
+(18-Jan-2026 Sunday omitted)
+
+• 19-Jan-2026 (Monday): Complete week 3 Day 1 and Day 2 problems.
+
+• 20-Jan-2026 (Tuesday): Learn and Complete week 3 Day 3 task.
+
+• 21-Jan-2026 (Wednesday): Learn and Complete week 3 Day 4 task.
+
+• 22-Jan-2026 (Thursday): Learn and Complete week 3 Day 5 task.
+
+• 23-Jan-2026 (Friday): Maintain and update github repository upto date.
